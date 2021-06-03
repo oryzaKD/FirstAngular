@@ -18,3 +18,17 @@
     justify-content: center;
     width: 250px;
   }
+
+  .title{
+    position: absolute;
+    top: 4.5%;
+    right: 10%;
+    transform: translate(-50%, -50%);
+  }
+
+  .button{
+    position: absolute;
+    top: 4.5%;
+    right: 0.5%;
+    transform: translate(-50%, -50%);
+}
